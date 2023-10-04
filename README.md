@@ -92,6 +92,7 @@ plt.show()
 
 <br>
 <br>
+
 ## Canny Edge detector output
 
 <img width="349" alt="image" src="https://github.com/Prakashmathi2004/EDGE--LINKING-HOUGH-TRANSFORM/assets/118350045/ecb8b99b-0584-46a6-b8c8-61287d8cad47">
