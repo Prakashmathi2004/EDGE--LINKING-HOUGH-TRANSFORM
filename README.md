@@ -1,4 +1,3 @@
-<img width="338" alt="image" src="https://github.com/Prakashmathi2004/EDGE--LINKING-HOUGH-TRANSFORM/assets/118350045/536a60e4-bb1b-47e3-9d48-17997dc5df24"># EDGE--LINKING-HOUGH-TRANSFORM
 ## Aim:
 To write a Python program to detect the lines using Hough Transform.
 
